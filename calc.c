@@ -23,6 +23,7 @@ int main(){
 				break;
 				case '*':
 				result =  &mul;
+				break;
 				case '/':
 				result = &div;
 				break;
